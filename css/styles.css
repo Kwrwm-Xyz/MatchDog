@@ -53,6 +53,12 @@ p {
   padding: 0 4.5rem;
 }
 
+@media (max-width:1028px){
+ .navbar{
+  padding: 10px 0px;
+ }
+}
+
 .navbar-brand{
   font-family: "Ubuntu";
   font-size: 2.5rem;
